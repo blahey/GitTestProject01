@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 // commit 1
+// commit 2
 public class TestScript : MonoBehaviour
 {
     // Start is called before the first frame update
